@@ -1,0 +1,22 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Pro mern stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscar-21/mern-stack.git"
+  },
+  "author": "Austin Conder <austin.conder@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oscar-21/mern-stack/issues"
+  },
+  "homepage": "https://github.com/Oscar-21/mern-stack#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
